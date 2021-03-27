@@ -26,6 +26,8 @@
 - Clone this repository to C:\xampp\htdocs.
 - Start Apache server in XAMPP
 - In your broswer visit: localhost/The_Snake_Game-_In_Javascript/
+- - Controls:
+    Use the arrows keys to play
 
 
 <b>Technologies:</b>
